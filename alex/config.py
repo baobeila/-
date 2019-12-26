@@ -21,7 +21,7 @@ DATA_PATH = './data'
 OUTPUT_DIR = os.path.join(DATA_PATH, 'output')
 #TODO 集成tfrecord文件的生成，生成缓存文件
 CACHE_PATH = os.path.join(DATA_PATH, 'cache')
-WEIGHTS_FILE  = 'bvlc_alexnet .npy'
+WEIGHTS_FILE  = 'bvlc_alexnet.npy'
 CLASSES = ['cat', 'dog']
 FLIPPED = True
 # model parameter
