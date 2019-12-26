@@ -32,6 +32,6 @@ Alexnet implementation of my own,including training (finetune) and test phase.
 	```
 
 ### Requirements
-1. Tensorflow 1.13.1
+1. Tensorflow-gpu 1.13.1
 
-2. OpenCV 3.4.2
+2. OpenCV 3.4.5
