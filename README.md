@@ -35,3 +35,5 @@ Alexnet implementation of my own,including training (finetune) and test phase.
 1. Tensorflow-gpu 1.13.1
 
 2. OpenCV 3.4.5
+
+3. Numpy 1.16.2
