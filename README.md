@@ -16,7 +16,7 @@ Alexnet implementation of my own,including training (finetune) and test phase.
 	http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/bvlc_alexnet.npy
 	```
 
-3. put the pretrained weights in the working directory
+3. Put the pretrained weights in the working directory
 
 
 4. Modify configuration in `alex/config.py`
